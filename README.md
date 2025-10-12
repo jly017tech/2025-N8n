@@ -7,3 +7,14 @@
 <p>
 N8n is a flexible workflow automation platform that helps you connect different apps, tools, <br>and services to automate repetitive tasks and build complex data pipelines.
 </p>
+
+<br>
+
+<h2>Example #1: </h2>
+
+
+<hr>
+
+<br>
+
+<h2>Example #2: </h2>
