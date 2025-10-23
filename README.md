@@ -21,6 +21,14 @@ With n8n, users can design workflows using a visual drag-and-drop interface, lin
 It show either the Ticket form aor the Request Device Form<. Then, the aritifcial intelligence agent will update the the google word sheet /p>
 
 
+
+<br>
+
+<img width="1309" height="449" alt="image" src="https://github.com/user-attachments/assets/78c111cc-9007-4366-b865-d7f149c9d1fb" />
+
+
+
+
 <h2>IT Documentation</h2>
 <img width="809" height="803" alt="image" src="https://github.com/user-attachments/assets/641878d9-6f43-4d1d-8efa-f1ff8cb440a8" />
 
