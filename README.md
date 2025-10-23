@@ -13,13 +13,30 @@ With n8n, users can design workflows using a visual drag-and-drop interface, lin
 <br>
 
 
+<h1>N8n Instance dashboard</h1>
+
+<img width="971" height="495" alt="image" src="https://github.com/user-attachments/assets/6d1f04c9-66f5-4ded-bf7c-af65e48dac99" />
+
+<p> I add on form as a starter and goes through if statement. Once the user selects the one of the two choices.
+It show either the Ticket form aor the Request Device Form</p>
+
+
 <h2>IT Documentation</h2>
 <img width="809" height="803" alt="image" src="https://github.com/user-attachments/assets/641878d9-6f43-4d1d-8efa-f1ff8cb440a8" />
 
 
 
 
+
+
+
+
+
 <h2>Example #1: Updating/adding the spreadsheet </h2>
+
+
+
+
 
 
 <hr>
