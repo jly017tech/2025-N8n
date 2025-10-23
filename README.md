@@ -17,8 +17,8 @@ With n8n, users can design workflows using a visual drag-and-drop interface, lin
 
 <img width="971" height="495" alt="image" src="https://github.com/user-attachments/assets/6d1f04c9-66f5-4ded-bf7c-af65e48dac99" />
 
-<p> I add on form as a starter and goes through if statement. Once the user selects the one of the two choices.
-It show either the Ticket form aor the Request Device Form</p>
+<p> I add on form as a starter and git oes through if statement. Once the user selects the one of the two choices,
+It show either the Ticket form aor the Request Device Form<. Then, the aritifcial intelligence agent will update the the google word sheet /p>
 
 
 <h2>IT Documentation</h2>
